@@ -1,2 +1,2 @@
-# 1malangan
+# 1malangan.github.io
 template 
